@@ -1,6 +1,6 @@
 # Hello, I'm Michael Williams! 👋
 
-I'm a Data Science and Mathematics major at the University of Michigan.
+I'm a Data Science and Mathematics major at the University of Michigan 〽️.
 
 ## About Me
 
