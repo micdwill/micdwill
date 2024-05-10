@@ -13,7 +13,7 @@ I'm a Data Science and Mathematics major at the University of Michigan.
 
 Here are some of the projects I've worked on:
 
-- [Project 1](link-to-project-1): Brief description of project 1.
+- [Optimizing IBM Hiring](https://github.com/micdwill/IBM-Hiring): Utilized stacked model to predict ideal hires
 - [Project 2](link-to-project-2): Brief description of project 2.
 - [Project 3](link-to-project-3): Brief description of project 3.
 
