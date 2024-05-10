@@ -23,8 +23,8 @@ Feel free to explore my repositories to see more of my work!
 
 Let's connect and collaborate on interesting projects! You can reach me via:
 
-- 📧 Email: [your-email@example.com](mailto:mdwill@umich.edu)
-- 💼 LinkedIn: [Michael Williams](www.linkedin.com/in/micdwilliams)
+- 📧 Email: [mdwill@umich.edu](mailto:mdwill@umich.edu)
+- 💼 LinkedIn: [Michael Williams](https://www.linkedin.com/in/micdwilliams)
 
 Looking forward to connecting with you! 😊
 
