@@ -13,9 +13,7 @@ I'm a Data Science and Mathematics major at the University of Michigan.
 
 Here are some of the projects I've worked on:
 
-- [Optimizing IBM Hiring](https://github.com/micdwill/IBM-Hiring): Utilized stacked model to predict ideal hires
-- [Project 2](link-to-project-2): Brief description of project 2.
-- [Project 3](link-to-project-3): Brief description of project 3.
+- [Optimizing IBM Hiring](https://github.com/micdwill/IBM-Hiring): Utilized stacked model to predict ideal hires for IBM
 
 Feel free to explore my repositories to see more of my work!
 
