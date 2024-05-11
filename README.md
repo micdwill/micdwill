@@ -19,6 +19,10 @@ Here are some of the projects I've worked on:
 
 Feel free to explore my repositories to see more of my work!
 
+## Technologies
+
+- C++, Python, R, SQL, Javascript, LaTeX
+
 ## Connect with Me
 
 Let's connect and collaborate on interesting projects! You can reach me via:
