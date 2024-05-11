@@ -1,10 +1,10 @@
 # Hello, I'm Michael Williams! 👋
 
-I'm a Data Science and Mathematics major at the University of Michigan 〽️.
+I am currently working as an Analyst Intern for Florida Blue 🔵
 
 ## About Me
 
-- 🎓 Currently pursuing a degree in Data Science and Mathematics.
+- 🎓 Currently pursuing a degree in Data Science and Mathematics at the University of Michigan 〽️.
 - 💻 Passionate about coding, data analysis, and machine learning.
 - 📊 Interested in exploring the intersection of data science and mathematics to solve real-world problems.
 - 🌱 Always eager to learn and improve my skills.
