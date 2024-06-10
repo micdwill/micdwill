@@ -22,7 +22,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## Technologies
 
-C++, Python, R, SQL, Javascript, LaTeX
+C++, Python, R, SQL, Javascript, Excel/VBA, SAS, LaTeX
 
 ## Connect with Me
 
