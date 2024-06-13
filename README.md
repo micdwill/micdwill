@@ -13,9 +13,10 @@ I am currently working as an Analyst Intern for Florida Blue 🔵
 
 Here are some of the projects I've worked on:
 
+
+- [Natural Selection Simulator](https://github.com/micdwill/Evolution-Simulator): Simulates the evolution of creatures and food sources, modeling interactions such as natural selection, predation, reproduction, and competition for resources. The project includes detailed statistics generation, Python scripts for population dynamics graphs, and data export to CSV format.
 - [Rossman Sales Forecasting](https://github.com/micdwill/Sales-Forecasting): This project uses LSTM neural networks in a time series model to predict sales for Rossmann stores, incorporating techniques like early stopping and RMSE evaluation to ensure accuracy. Through data analysis and model development, it aims to optimize retail strategies and resource allocation for Rossmann.
 - [Optimizing IBM Hiring](https://github.com/micdwill/IBM-Hiring): Engineered a variable to represent the quality of a worker. Then utilized stacked decision tree with SVM, KNN, and ANN in to predict both quality and odds of attrition to select ideal hires for IBM.
-- [Natural Selection Simulator](https://github.com/micdwill/Evolution-Simulator): Simulates the evolution of creatures and food sources, modeling interactions such as natural selection, predation, reproduction, and competition for resources. The project includes detailed statistics generation, Python scripts for population dynamics graphs, and data export to CSV format.
 - [NHANES Socioeconomic Disaprity Predictors](https://github.com/micdwill/NHANES-Socioeconomic-Predictors): Leveraged and preprocessed NHANES dataset for an analysis of U.S. economic standing, employing LASSO Regression with K-fold Cross Validation to eliminate non-influential predictors before running a Random Forest Model to find predictors for household income levels
 - [TSP Heuristic & Optimization](https://github.com/micdwill/TSP-Heuristic-and-Optimization): Implemented TSP optimization using Branch and Bound algorithm, utilizing MST to find promising branches Leveraged an Arbitrary Insertion TSP heuristic for an O(n2) algorithm with a path length within 1.5x optimal
 
@@ -23,7 +24,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## Technologies
 
-C++, Python, R, SQL, Javascript, Excel/VBA, SAS, LaTeX
+C++, Python, R, SQL, SAS, Javascript, CSS, HTML, Excel/VBA, LaTeX
 
 ## Connect with Me
 
