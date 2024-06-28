@@ -1,6 +1,5 @@
 # Hello, I'm Michael Williams! 👋
 
-I am currently working as an Analyst Intern for Florida Blue 🔵
 
 ## About Me
 
