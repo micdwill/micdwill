@@ -20,9 +20,14 @@ Here are some of the projects I've worked on:
 
 Feel free to explore my repositories to see more of my work!
 
-## Languages
+## Technologies
 
-C++, Python, R, SQL, SAS, Javascript, CSS, HTML, Excel/VBA, LaTeX
+### Languages
+C++, Python, R, SQL, SAS, JavaScript, CSS, HTML, Excel/VBA, LaTeX
+
+### Frameworks & Development Tools
+Node.js, React.js, Express.js, TensorFlow, PyTorch, VS Code, AWS, Git, Jupyter, Flask, Vue
+
 
 ## Connect with Me
 
