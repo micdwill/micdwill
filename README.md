@@ -26,7 +26,7 @@ Feel free to explore my repositories to see more of my work!
 C++, Python, R, SQL, SAS, JavaScript, CSS, HTML, Excel/VBA, LaTeX
 
 ### Frameworks & Development Tools
-Node.js, React.js, Express.js, TensorFlow, PyTorch, VS Code, AWS, Git, Jupyter, Flask, Vue
+Node.js, React.js, Express.js, TensorFlow, PyTorch, Pandas, Numpy, VS Code, AWS, Git, Jupyter, Flask, Vue
 
 
 ## Connect with Me
